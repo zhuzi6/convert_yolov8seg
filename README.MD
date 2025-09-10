@@ -1,6 +1,6 @@
 # YOLOV8SEG TensorRT
 用于支持YOLOV8SEG的Torch模型转ONNX，并将ONNX转为带efficientidxnms插件的模型
-
+使用cuda11.8，tensorrt为8.5.2
 # 环境依赖
 onnx  
 torch  
